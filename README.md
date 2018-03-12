@@ -1,0 +1,2 @@
+# scala-projects
+Learning Scala
