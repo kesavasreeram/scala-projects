@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/ktalabattula/Documents/kesava/scala-projects/src/main/scala/fileSearcher/FileConverter.scala:7:28: not found: value DirectoryObject[0m
+[0m[[0m[31merror[0m] [0m[0m    if(file.isDirectory()) DirectoryObject(file)[0m
+[0m[[0m[31merror[0m] [0m[0m                           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ktalabattula/Documents/kesava/scala-projects/src/main/scala/fileSearcher/FileConverter.scala:8:10: not found: value FileObject[0m
+[0m[[0m[31merror[0m] [0m[0m    else FileObject(file)[0m
+[0m[[0m[31merror[0m] [0m[0m         ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
